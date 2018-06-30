@@ -1,0 +1,3 @@
+/home/zhangwei/opencv-3.4.0/samples/cpp/example_cmake/CMakeFiles/edit_cache.dir
+/home/zhangwei/opencv-3.4.0/samples/cpp/example_cmake/CMakeFiles/rebuild_cache.dir
+/home/zhangwei/opencv-3.4.0/samples/cpp/example_cmake/CMakeFiles/opencv_example.dir
